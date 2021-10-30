@@ -118,3 +118,4 @@ Expo uses Firebase Web SDK and does not support all Firebase services such as ph
 <strong>Built by [@amanhimself](https://twitter.com/amanhimself)</strong>
 
 **Happy Coding!** 🎉🎉
+Zoo monitoring app is basically designed to the faciliatate the zoo staff to manage and monitor animals in the zoo. They can keep and update records of animals and also they can monitor their deit and health.
